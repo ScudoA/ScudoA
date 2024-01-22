@@ -10,12 +10,12 @@ Un eterno curioso alla ricerca di perle di saggezza nascoste da qualche parte.
 
 - **Linguaggi:** Python, C, HTML.
 - **Database:** MySQL (perché le tabelle sono i miei amici).
-- **Strumenti:** Excel.
+- **Strumenti:** Excel, Microsoft Office.
 
 ## 💡 Cosa mi appassiona
 
 - Studio appassionato di tutto ciò che riguarda il digitale e il mondo dei dati.
-- Copywriting e marketing digitale.
+- Copywriting, comunicazione e marketing.
 
 ## 📬 Contattami
 
