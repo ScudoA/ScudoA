@@ -1,4 +1,4 @@
-# 👋 Ciao! Sono Andrea, un Junior Data Analyst che punta spesso sulla simpatia. 📊
+# 👋 Ciao! Sono Andrea, un Junior Data Analyst che punta sulla simpatia. 📊
 
   Benvenuto nel mio angolo digitale, dove il caffè è nero, i dati sono belli e le analisi sono sempre in corso.
 
