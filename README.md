@@ -1,21 +1,21 @@
-# 👋 Ciao, sono Andrea Scudo - Analista dei Dati Extraordinaire! 📊
+# 👋 Ciao, sono Andrea! - Un junior data analyst  📊
 
 Benvenuto nel mio angolo digitale, dove il caffè è nero, i dati sono belli e le analisi sono sempre in corso.
 
 ## 👨‍💻 Chi sono?
 
-Un eterno curioso alla ricerca di perle di saggezza nascoste nei dati. Mi chiamo Andrea Scudo, il tuo Analista dei Dati di fiducia.
+Un eterno curioso alla ricerca di perle di saggezza nascoste nel mondo digitale. 
 
 ## 🚀 Le mie super potenze analitiche
 
-- **Linguaggi:** Python (studiando come un Jedi), C (come "Controlla questo dato!"), HTML (come "Hai bisogno di dati, to' qua un linguaggio").
+- **Linguaggi:** Python, C, HTML.
 - **Database:** MySQL (perché le tabelle sono i miei amici).
 - **Strumenti:** Excel (la mia tela per dipingere i paesaggi di dati).
 
 ## 💡 Cosa mi appassiona
 
 - Esplorare dati come Indiana Jones in cerca dell'Arca Perduta.
-- Studio appassionato di Python e suoi poteri magici (anche se il mio laptop non vola ancora).
+- Studio appassionato di Python e di nuovi linguaggi di programmazione che devo ancora scoprire.
 - Copywriting e marketing: convincere i dati a raccontare storie avvincenti.
 
 ## 📬 Contattami
@@ -26,7 +26,7 @@ Un eterno curioso alla ricerca di perle di saggezza nascoste nei dati. Mi chiamo
 
 ## ⚠️ Avviso
 
-Questo profilo può causare un'irresistibile voglia di fare amicizia con i dati. Utilizzare con moderazione, o preparati a diventare un appassionato di analisi dati!
+Questo profilo può causare un'irresistibile voglia di fare amicizia con i dati.
 
-Buon viaggio attraverso i dati! 🚀
+Buon viaggio! 🚀
 
