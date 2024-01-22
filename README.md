@@ -4,19 +4,18 @@ Benvenuto nel mio angolo digitale, dove il caffè è nero, i dati sono belli e l
 
 ## 👨‍💻 Chi sono?
 
-Un eterno curioso alla ricerca di perle di saggezza nascoste nel mondo digitale. 
+Un eterno curioso alla ricerca di perle di saggezza nascoste da qualche parte. 
 
 ## 🚀 Le mie super potenze analitiche
 
 - **Linguaggi:** Python, C, HTML.
 - **Database:** MySQL (perché le tabelle sono i miei amici).
-- **Strumenti:** Excel (la mia tela per dipingere i paesaggi di dati).
+- **Strumenti:** Excel.
 
 ## 💡 Cosa mi appassiona
 
-- Esplorare dati come Indiana Jones in cerca dell'Arca Perduta.
-- Studio appassionato di Python e di nuovi linguaggi di programmazione che devo ancora scoprire.
-- Copywriting e marketing: convincere i dati a raccontare storie avvincenti.
+- Studio appassionato di tutto ciò che riguarda il digitale e il mondo dei dati.
+- Copywriting e marketing digitale.
 
 ## 📬 Contattami
 
