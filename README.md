@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Chi sono?
 
-Un eterno curioso alla ricerca di perle di saggezza nascoste da qualche parte.
+Un eterno curioso alla ricerca di perle di saggezza nascoste da qualche parte nell'internet.
 
 ## 🚀 Le mie super potenze analitiche
 
