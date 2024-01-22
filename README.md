@@ -1,20 +1,41 @@
-<h1 align="center">Hi 👋, I'm Andrea!</h1>
-<h3 align="center">Junior Data Analyst</h3>
+# **Profilo Analista dei Dati** 📊
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scudoa&label=Profile%20views&color=0e75b6&style=flat" alt="scudoa" /> </p>
+```python
+class AndreaScudo:
+    def __init__(self):
+        self.nome = "Andrea Scudo"
+        self.occupazione = "Analista dei Dati"
+        self.passioni = ["Esplorare Dati", "Studio di Python", "Marketing e Copywriting"]
+        self.linguaggi = ["Python", "C", "HTML"]
+        self.database = "MySQL"
+        self.strumenti = ["Excel"]
 
-- 📫 How to reach me **andreascudo62@gmail.com**
+    def chi_sono(self):
+        return "Un eterno curioso alla ricerca di insight nascosti nei dati."
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/andrea scudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea scudo" height="30" width="40" /></a>
-<a href="https://instagram.com/_andreascudo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_andreascudo_" height="30" width="40" /></a>
-</p>
+# Instanzia il profilo
+profilo = AndreaScudo()
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Competenze Analitiche 🔍
 
-<!---
-ScudoA/ScudoA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Linguaggi   | Database   | Strumenti         |
+|-------------|------------|-------------------|
+| Python, C, HTML | MySQL     | Excel             |
+
+## Interessi 🔥
+
+- Esplorare dati come un detective digitale.
+- Studio appassionato di Python e suoi poteri magici.
+- Copywriting e marketing: la mia arte di seduzione in pixel.
+
+## Contatti del Detective 🕵️‍♂️
+
+- **Email:** andreascudo62@gmail.com
+- **Instagram:** \_andreascudo\_
+- **Facebook:** Andrea Scudo
+
+## ⚠️ Avvertenza
+
+Questo profilo potrebbe causare un'ossessione per la ricerca dei dati e un'accresciuta saggezza analitica. L'uso prolungato può portare a un senso di realizzazione professionale.
+
+Buona caccia ai dati! 🚀
