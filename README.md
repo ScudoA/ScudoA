@@ -1,10 +1,10 @@
-# 👋 Ciao, sono Andrea! - Un junior data analyst  📊
+# 👋 Ciao! Sono Andrea, un Junior Data Analyst che punta spesso sulla simpatia. 📊
 
-Benvenuto nel mio angolo digitale, dove il caffè è nero, i dati sono belli e le analisi sono sempre in corso.
+  Benvenuto nel mio angolo digitale, dove il caffè è nero, i dati sono belli e le analisi sono sempre in corso.
 
 ## 👨‍💻 Chi sono?
 
-Un eterno curioso alla ricerca di perle di saggezza nascoste da qualche parte. 
+Un eterno curioso alla ricerca di perle di saggezza nascoste da qualche parte.
 
 ## 🚀 Le mie super potenze analitiche
 
