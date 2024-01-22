@@ -30,9 +30,5 @@ https://www.instagram.com/_andreascudo_/
 
 ###
 
-## ⚠️ Avviso
-
-Questo profilo può causare un'irresistibile voglia di fare amicizia con i dati.
-
 Buon viaggio! 🚀
 
