@@ -1,6 +1,6 @@
 # 👋 Ciao! Sono Andrea, un Junior Data Analyst che punta sulla simpatia. 📊
 
-  Benvenuto nel mio angolo digitale, dove il caffè è nero, i dati sono belli e le analisi sono sempre in corso.
+  Benvenuto nel mio angolo digitale, dove il caffè è nero e i dati sono belli.
 
 ## 👨‍💻 Chi sono?
 
