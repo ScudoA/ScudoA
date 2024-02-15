@@ -1,12 +1,10 @@
-# 👋 Ciao! Sono Andrea, un Junior Data Analyst che punta sulla simpatia. 📊
-
-  Benvenuto nel mio angolo digitale, dove il caffè è nero e i dati sono belli.
+# 👋 Benvenuto nel mio angolo digitale, dove il caffè è nero e i dati sono belli. 
 
 ## 👨‍💻 Chi sono?
 
 Un eterno curioso alla ricerca di perle di saggezza nascoste da qualche parte nell'internet.
 
-## 🚀 Le mie super potenze analitiche
+## 🚀 Le mie super potenze analitiche!!!
 
 - **Linguaggi:** Python, C, HTML.
 - **Database:** MySQL (perché le tabelle sono i miei amici).
